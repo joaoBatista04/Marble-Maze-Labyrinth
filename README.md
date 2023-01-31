@@ -61,10 +61,10 @@ será preciso reiniciar o jogo.
 <p>Esse é o esquemático de ligação do joystick para controlar os dois servo motores 
 que movem a plataforma</p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/105085521/209409025-d106b728-478b-49da-99ba-5d0f05022648.png">
+<img src="lcd.png">
 </p>
 <p align="center">Fonte: https://www.filipeflop.com/blog/controlando-um-lcd-16x2-com-arduino/</p>
-<p>Esse é o esquemático de ligação do display LCD com o Arduino UNO.
+<p>Esse é o esquemático de ligação do display LCD com o Arduino UNO e o sensor piezoelétrico.
 
 Um único Arduino não será capaz de manter funcionando os dois servo motores 
 e o display LCD, por isso propomos usar um Arduino UNO para controlar os 
