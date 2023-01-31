@@ -41,20 +41,18 @@ protótipo do jogo ficaria semelhante a este:</p>
 <p>
 Nós propomos que cada jogador tenha três vidas. Quando as três vidas forem 
 perdidas e o jogo for encerrado sem sucesso, o joystick irá parar de funcionar e 
-será preciso apertar um botão para reiniciar o jogo.
+será preciso reiniciar o jogo.
 
-Com isso, também será possível implantar um sistema de placar, aumentando 
-ainda mais as possibilidades do jogo.
 </p>
 <h2>Lista de Itens Necessários</h2>
 <p>2 Arduinos</p>
-<p>1 Protoboard</p>
+<p>2 Protoboards</p>
 <p>Jumpers</p>
 <p>2 Servo Motores</p>
 <p>1 Módulo Joystick para Arduino</p>
-<p>MDF para a montagem da base</p>
+<p>Papelão e LEGO para a montagem da base</p>
 <p>1 Display LCD</p>
-<p>1 Botão</p>
+<p>1 Cápsula piezoelétrica</p>
 <h2>Esquemáticos do Circuito</h2>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/105085521/209408891-1c054df5-b180-4321-8ffe-a2e8d00dd175.png">
@@ -72,5 +70,4 @@ Um único Arduino não será capaz de manter funcionando os dois servo motores
 e o display LCD, por isso propomos usar um Arduino UNO para controlar os 
 motores por meio do joystick e outro para controlar o display LCD.
 
-A alimentação do circuito também deverá ser feita a parte, seja por bateria, pilha 
-ou outro método.</p>
+A alimentação do circuito também deverá ser feita a parte, por pilha</p>
