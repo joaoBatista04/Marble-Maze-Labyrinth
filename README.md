@@ -59,7 +59,7 @@ será preciso reiniciar o jogo.
 </p>
 <p align="center">Fonte: https://create.arduino.cc/projecthub/AhmedAzouz/arduino-marble-maze-labyrinth-bd9ea6</p>
 <p>Esse é o esquemático de ligação do joystick para controlar os dois servo motores 
-que movem a plataforma</p>
+que movem a plataforma:</p>
 <p align="center">
 <img src="lcd.png">
 </p>
