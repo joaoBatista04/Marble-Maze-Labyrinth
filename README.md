@@ -70,3 +70,7 @@ e o display LCD, por isso propomos usar um Arduino UNO para controlar os
 motores por meio do joystick e outro para controlar o display LCD.
 
 A alimentação do circuito também deverá ser feita a parte, por pilha</p>
+</p>
+<h2>Dependências e Detalhes Importantes</h2>
+<p>Apesar de estarem conectados na mesma fonte no esquemático, os dois motores podem não funcionar juntos. Para contornar isso, o joystick e o motor 1 podem ser ligados juntos nos 5V, enquanto o motor 2 é ligado exclusivamente nos 3.3V</p>
+<p>Para rodar a programação do LCD, é necessário incluir a biblioteca "LiquidCrystal". Ela vem instalada por padrão, mas pode ser baixada pelo Library Manager</p>
