@@ -74,3 +74,4 @@ A alimentação do circuito também deverá ser feita a parte, por pilha</p>
 <h2>Dependências e Detalhes Importantes</h2>
 <p>1. Apesar de estarem conectados na mesma fonte no esquemático, os dois motores podem não funcionar juntos. Para contornar isso, o joystick e o motor 1 podem ser ligados juntos nos 5V, enquanto o motor 2 é ligado exclusivamente nos 3.3V</p>
 <p>2. Para rodar a programação do LCD, é necessário incluir a biblioteca "LiquidCrystal". Ela vem instalada por padrão, mas pode ser baixada pelo Library Manager</p>
+<p>3. O programa de motores deve ser baixado no Arduino 1 e o programa de LCD deve ser baixado no Arduino 2</p>
